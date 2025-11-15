@@ -7,19 +7,19 @@ This project demonstrates SQL skills including database creation, data cleaning,
 ## 🗄️ Database Setup
 - Created tables:
   - movies
-  - `ratings`
-  - `directors`
-  - `genre`
-  - `cast`
+  - ratings
+  - directors
+  - genre
+  - cast
 - Loaded dataset using SQL scripts  
 - Handled missing values and formatting issues  
 
 ---
 
 ## Key SQL Concepts Used
-- `JOIN` (Inner, Left, Right)  
-- `GROUP BY` and `HAVING`  
-- Window Functions `(ROW_NUMBER, RANK)`  
+- JOIN (Inner, Left, Right)  
+- GROUP BY and HAVING 
+- Window Functions (ROW_NUMBER, RANK)  
 - Subqueries  
 - Common Table Expressions (CTEs)  
 - Aggregations  
