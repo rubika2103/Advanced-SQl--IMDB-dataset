@@ -27,7 +27,7 @@ This project demonstrates SQL skills including database creation, data cleaning,
 
 ---
 
-## Example Analytical Questions Solved
+## Analytical Questions Solved
 - Top 10 highest-rated movies  
 - Most popular movie genres  
 - Movies with the highest number of votes  
