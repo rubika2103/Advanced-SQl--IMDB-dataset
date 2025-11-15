@@ -6,7 +6,7 @@ This project demonstrates SQL skills including database creation, data cleaning,
 
 ## 🗄️ Database Setup
 - Created tables:
-  - `movies`
+  - movies
   - `ratings`
   - `directors`
   - `genre`
